@@ -36,6 +36,8 @@ Apache Beam is built on three fundamental components:
     - **Composite**: GroupBy, Combine, Join.
 - **Usage:** Define the logic to transform input PCollections into output PCollections.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d0be0f0f-7d92-48df-b87b-b21bd45a9901" />
+
 
 ## Example: Basic Apache Beam Pipeline in Python
 
